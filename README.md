@@ -4,13 +4,13 @@ detecting markers by a robot
 
 ## Collaboration
 
-Ali PourYaghoub
+MohammadAli PourYaghoub Shahkhali (s6063201)
 
-Seyed Alireza Mortazavi
+Seyed Alireza Mortazavi (s6136275)
 
-Pezhman Rezaei
+Pezhman Rezaei Salkhori (s6133283)
 
-Mohsen Kashefi
+Mohsen Kashefi (s5964796)
 
 ## Features
 - Detects markers using their unique IDs.
