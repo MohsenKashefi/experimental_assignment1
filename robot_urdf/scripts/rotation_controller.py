@@ -46,7 +46,7 @@ class camera_rotating_controller:
         # Publishers
         self.image_pub = rospy.Publisher("/output/image_raw/compressed", CompressedImage, queue_size=1)
 
-        self.camera_holder_publisher = rospy.Publisher('/my_robot4/camera_holder_position_controller/command', Float64, queue_size=1)
+        self.camera_holder_publisher = rospy.Publisher('/robot4/camera_holder_position_controller/command', Float64, queue_size=1)
 
         # Subscribers
         rospy.Subscriber("/robot/camera1/image_raw/compressed", CompressedImage, self.Controller_callback, queue_size=1)
