@@ -2,7 +2,7 @@
 
  The project is designed to [briefly explain the project's main goal or functionality].
 
-## Collabriotn
+## Collaboration
 Ali PourYaghoub
 Seyed Alireza Mortazavi
 Pezhman Rezaei
