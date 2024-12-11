@@ -74,8 +74,6 @@ git clone https://github.com/CarmineD8/aruco_ros
 
 4. Observe the robot rotating or adjusting the camera view to detect and process all markers sequentially.
 
---
-
 ## Topics
 
 ### Published Topics
