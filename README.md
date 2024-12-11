@@ -1,11 +1,15 @@
 # Experimental Assignment 1
 
- The project is designed to [briefly explain the project's main goal or functionality].
+detecting markers by a robot
 
 ## Collaboration
+
 Ali PourYaghoub
+
 Seyed Alireza Mortazavi
+
 Pezhman Rezaei
+
 Mohsen Kashefi
 
 ## Features
